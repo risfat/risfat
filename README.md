@@ -24,7 +24,7 @@ https://simpleicons.org/
 <br>
 
 
-[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:md@risfbd.com)
+[![Mail](https://img.shields.io/badge/Hotmail-md@risfbd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:md@risfbd.com)
 <br>
 
 <!--
