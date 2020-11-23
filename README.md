@@ -73,7 +73,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive Web Design`, `DOM`, `Styled Components`, `Css3`, `Bootstrap 4`, `Raw-Php`, `3rd Party API`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
