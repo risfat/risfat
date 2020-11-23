@@ -14,13 +14,14 @@ https://simpleicons.org/
 
 ## Reach me via 👇
 
-[![Facebook](https://img.shields.io/badge/Facebook-white.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/its.risfat)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/risfat404/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/risfat404)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC0B5kXA9TWrljpCsnRMm57g)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/risfat/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/risfat)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/risfat)
+[![Facebook](https://img.shields.io/badge/Facebook-skyblue.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/its.risfat)
 
 
 
