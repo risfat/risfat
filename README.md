@@ -33,9 +33,6 @@ https://simpleicons.org/
 [<img align="left" alt="Risfat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Risfat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
-<br>
-
-
 
 [![Mail](https://img.shields.io/badge/Mail-md@risfbd.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:md@risfbd.com)
 <br>
