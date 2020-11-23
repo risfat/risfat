@@ -11,15 +11,27 @@ https://simpleicons.org/
 <br>
 <br>
 
-### Connect with me:
 
+## Reach me via 👇
+
+[![Facebook](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=facebook)](https://www.facebook.com/its.risfat)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/risfat404/)
+[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/risfat404)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC0B5kXA9TWrljpCsnRMm57g)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/risfat/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/risfat)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/risfat)
+
+
+
+<!--
 [<img align="left" alt="risfbd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Risfat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Risfat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Risfat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Risfat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Risfat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br>
 <br>
 
@@ -37,7 +49,7 @@ https://simpleicons.org/
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Risfat</strong></samp></h2>
-<h3 align='center'><strong><a href="https://md.risfbd.com/" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="https://md.risfbd.com/" target="_blank">## About Me 🤷🏻‍♂️</a></strong></h3>
 <p align='center'> Full-Stack Web Developer | Mobile App Developer | Open Source Contributer </p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Web Development career path, and loves working with cutting edge tools and technologies.</p>
@@ -111,6 +123,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
+<br>
+<br>
+
+## Projects made with ❤️ 👇
 
 
 
