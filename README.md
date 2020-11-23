@@ -69,6 +69,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 
 
 🧐 **Knowledge of:**<br>
