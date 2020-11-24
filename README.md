@@ -136,6 +136,5 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 [facebook]: https://facebook.com/its.risfat
 [youtube]: https://youtube.com/risfat
 [instagram]: https://instagram.com/risfat
-[linkedin]: https://linkedin.com/in/risfat
 
 
