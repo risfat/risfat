@@ -87,7 +87,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
 
-💻 **Oparating Systems:** 🛠️<br>
+💻 **Operating Systems:** 🛠️<br>
 
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
