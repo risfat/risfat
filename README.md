@@ -94,9 +94,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 
 
-🧐 **Knowledge of:**<br>
+🧐 **Special Knowledge of:**<br>
 
-`Responsive Web Design`, `DOM`, `Styled Components`, `Css3`, `Bootstrap 4`, `Raw-Php`, `Python3`, `3rd Party API`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
+`Responsive Web Design`, `DOM`, `Styled Components`, `Css3`, `Bootstrap 4`, `Raw-Php`, `Python3`, `jQuery`, `3rd Party API`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
