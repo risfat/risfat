@@ -14,7 +14,7 @@ const illustration = { animated: true };
 
 const greeting = {
   username: "Risfat Amin",
-  title: "Hi, I'm Risfat 👋",
+  title: "Hi, I'm Risfat ",
   subTitle: emoji(
     "Passionate Flutter Developer 🚀 with a proven track record of building scalable, high-performance mobile apps. Expert in Bloc, Riverpod and clean architecture, delivering seamless user experiences and optimizing business operations."
   ),
