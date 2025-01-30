@@ -59,7 +59,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Daffodil International University",
-      logo: require("./assets/images/diuLogo.jpg"),
+      logo: require("./assets/images/diuLogo.png"),
       subHeader: "Bachelor in Computer Science and Engineering",
       duration: "September 2019 - August 2023",
       desc: "Graduated with a strong focus on software development, project management, and system design."
@@ -181,11 +181,11 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/diuTransportLogo.png"),
+      image: require("./assets/images/diuLogo.png"),
       projectName: "DIU Transport",
       projectDesc: "University bus tracking app with real-time location updates & automated ticketing system.",
       footerLink: [
-        { name: "View Demo", url: "#" }
+        { name: "View Demo", url: "https://drive.google.com/drive/folders/1ah_MyiSwZJDrk0NEs5GUqhIHopDBqjrH?usp=sharing" }
       ]
     },
     {
