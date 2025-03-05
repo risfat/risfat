@@ -19,7 +19,7 @@ const greeting = {
     "Passionate Flutter Developer 🚀 with a proven track record of building scalable, high-performance mobile apps. Expert in Bloc, Riverpod and clean architecture, delivering seamless user experiences and optimizing business operations."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1zTPPIT2oI9Unz6c9kYPp0pbgQNO4xH-E/view?usp=sharing",
+    "https://drive.google.com/file/d/1Ehfxh_ZI9Ddnph-3-UN29LsqU6nze130/view?usp=sharing",
   displayGreeting: true
 };
 
@@ -213,6 +213,14 @@ const achievementSection = {
   title: emoji("Achievements & Certifications 🏆"),
   subtitle: "Recognitions, certifications, and open-source contributions.",
   achievementsCards: [
+    {
+      title: "HyperNet",
+      subtitle: "Wrapper around Dio that can perform API requests with better error handling and easily get the result of any API request.",
+      image: require("./assets/images/flutterLogo.png"),
+      footerLink: [
+        { name: "View on Pub.dev", url: "https://pub.dev/packages/hyper_net" }
+      ]
+    },
     {
       title: "Flutter Media Delete Plugin",
       subtitle: "Published an open-source package for deleting media files in Flutter.",
