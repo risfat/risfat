@@ -118,33 +118,6 @@ https://simpleicons.org/
 
 ---
 
-## 🔥 Current Focus
-
-```javascript
-const risfat = {
-    currentlyWorkingOn: ["Flutter Apps", "Node.js APIs", "React Projects"],
-    learningNext: ["React Native", "Docker", "GraphQL", "ESLint"],
-    askMeAbout: ["Flutter", "Mobile Development", "Web Development", "API Design"],
-    technologies: {
-        mobile: ["Flutter", "Dart", "React Native"],
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Sass"],
-        backend: ["Node.js", "PHP", "Python", "C", "Laravel", "Django", "CodeIgniter"],
-        databases: ["MongoDB", "MySQL", "Firebase", "SQLite"],
-        tools: ["Git", "Docker", "VS Code", "Postman", "ESLint", "GraphQL"]
-    },
-    specialization: [
-        "Mobile App Development (Flutter)",
-        "Responsive Web Design", 
-        "Backend API Development",
-        "Object-Oriented Programming",
-        "Data Structures & Algorithms"
-    ],
-    currentChallenge: "Building scalable mobile applications with Flutter"
-};
-```
-
----
-
 ## 🎯 Core Expertise & Specializations
 
 🚀 **Cross-Platform Mobile Development** - Expert in Flutter & Dart with 4+ years of production experience, delivering high-performance apps for iOS and Android
@@ -242,5 +215,3 @@ const risfat = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-
----
